@@ -1,0 +1,14 @@
+D:\TrinitySeal\TrinitySeal\bin\Debug\TrinitySeal.dll
+D:\TrinitySeal\TrinitySeal\bin\Debug\TrinitySeal.pdb
+D:\TrinitySeal\TrinitySeal\obj\Debug\TrinitySeal.csproj.CoreCompileInputs.cache
+D:\TrinitySeal\TrinitySeal\obj\Debug\TrinitySeal.dll
+D:\TrinitySeal\TrinitySeal\obj\Debug\TrinitySeal.pdb
+D:\TrinitySeal\TrinitySeal\obj\Debug\TrinitySeal.csproj.CopyComplete
+D:\TrinitySeal\TrinitySeal\bin\Debug\Newtonsoft.Json.dll
+D:\TrinitySeal\TrinitySeal\bin\Debug\Newtonsoft.Json.xml
+D:\TrinitySeal\TrinitySeal\obj\Debug\TrinitySeal.csproj.GenerateResource.cache
+D:\TrinitySeal\TrinitySeal\obj\Debug\TrinitySeal.csprojAssemblyReference.cache
+D:\TrinitySeal\TrinitySeal\obj\Debug\TrinityGUI.SealForm.resources
+D:\TrinitySeal\TrinitySeal\obj\Debug\TrinitySeal.Properties.Resources.resources
+D:\TrinitySeal\TrinitySeal\obj\Debug\TrinityGUI.renew.resources
+D:\TrinitySeal\TrinitySeal\bin\Debug\TrinitySeal.dll.config

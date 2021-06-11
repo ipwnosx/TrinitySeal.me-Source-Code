@@ -1,0 +1,11 @@
+C:\Users\jake1\source\repos\TrinitySealTut\TrinitySealTut\bin\Debug\TrinitySealTut.exe.config
+C:\Users\jake1\source\repos\TrinitySealTut\TrinitySealTut\bin\Debug\TrinitySealTut.exe
+C:\Users\jake1\source\repos\TrinitySealTut\TrinitySealTut\bin\Debug\TrinitySealTut.pdb
+C:\Users\jake1\source\repos\TrinitySealTut\TrinitySealTut\obj\Debug\TrinitySealTut.csprojAssemblyReference.cache
+C:\Users\jake1\source\repos\TrinitySealTut\TrinitySealTut\obj\Debug\TrinitySealTut.Form1.resources
+C:\Users\jake1\source\repos\TrinitySealTut\TrinitySealTut\obj\Debug\TrinitySealTut.Properties.Resources.resources
+C:\Users\jake1\source\repos\TrinitySealTut\TrinitySealTut\obj\Debug\TrinitySealTut.csproj.GenerateResource.cache
+C:\Users\jake1\source\repos\TrinitySealTut\TrinitySealTut\obj\Debug\TrinitySealTut.csproj.CoreCompileInputs.cache
+C:\Users\jake1\source\repos\TrinitySealTut\TrinitySealTut\obj\Debug\TrinitySealTut.csproj.CopyComplete
+C:\Users\jake1\source\repos\TrinitySealTut\TrinitySealTut\obj\Debug\TrinitySealTut.exe
+C:\Users\jake1\source\repos\TrinitySealTut\TrinitySealTut\obj\Debug\TrinitySealTut.pdb
